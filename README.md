@@ -61,6 +61,14 @@ Aqui estão alguns comandos úteis no Windows e suas funções:
 4. `sfc /scannow` - Verifica e corrige arquivos de sistema corrompidos.
 5. `shutdown /r /t 0` - Reinicia o computador imediatamente.
 
+## Curiosidades sobre o Windows
+
+1. **Windows XP** foi um dos sistemas operacionais mais duradouros, com suporte oficial estendendo-se até 2014.  
+2. O **Windows 95** foi o primeiro a incluir o "menu Iniciar", que se tornou uma das características mais icônicas do sistema.  
+3. O **Windows 8** teve um design radicalmente diferente, focado em telas sensíveis ao toque e na interface Metro, o que gerou muita controvérsia.  
+4. A versão **Windows 11** foi projetada com um foco maior em produtividade e recursos de multitarefa, incluindo novas funcionalidades como Snap Layouts.  
+5. A cada nova versão, a Microsoft sempre oferece o **Windows Insider Program**, permitindo que os usuários testem novas funcionalidades antes do lançamento oficial. Para saber mais, acesse [Windows Insider Program](https://insider.windows.com).
+
 ## Recursos Adicionais sobre o Windows
 
 Para mais informações sobre o sistema operacional Windows, você pode acessar a [documentação oficial da Microsoft](https://www.microsoft.com).
